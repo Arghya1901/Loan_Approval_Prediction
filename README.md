@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LoanApproval.jpg" alt="Loan Approval Prediction" width="600"/>
+  <img src="LoanApproval.png" alt="Loan Approval Prediction" width="600"/>
 </p>
 
 # 🏦 **LOAN APPROVAL PREDICTION**
